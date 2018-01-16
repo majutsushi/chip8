@@ -1,0 +1,10 @@
+[package]
+name = "chip8"
+version = "0.1.0"
+authors = ["Jan Larres <jan@majutsushi.net>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.4"
+sdl2 = "0.31"
+lazy_static = "1.0"
